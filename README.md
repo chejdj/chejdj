@@ -3,8 +3,6 @@
 
 *This is Chejdj, or YangYang*
 
-| [中文博客](https://chejdj.github.io/)
-
 [![](https://img.shields.io/badge/-Email-c2392a?logo=Gmail&logoColor=white&style=flat-square)](mailto:yangyang.zhu96@gmail.com)
 [![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/chejdj)
 
