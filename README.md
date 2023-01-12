@@ -8,5 +8,4 @@
 
 A learner who interests in Flutter/Android.
 
-[![Chejdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=chejdj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chejdj&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Chejdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=chejdj&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
