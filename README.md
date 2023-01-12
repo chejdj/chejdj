@@ -8,4 +8,4 @@
 
 A learner who interests in Flutter/Android.
 
-[![Chejdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=chejdj&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/chejdj"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=chejdj&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
